@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\bin\Debug\net8.0\RefactorSpecialNumbers.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\bin\Debug\net8.0\RefactorSpecialNumbers.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\bin\Debug\net8.0\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\bin\Debug\net8.0\RefactorSpecialNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\bin\Debug\net8.0\RefactorSpecialNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\refint\RefactorSpecialNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\RefactorSpecialNumbers.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\RefactorSpecialNumbers\obj\Debug\net8.0\ref\RefactorSpecialNumbers.dll
