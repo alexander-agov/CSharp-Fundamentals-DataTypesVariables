@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\bin\Debug\net8.0\CenturiesToMinutes.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\refint\CenturiesToMinutes.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CenturiesToMinutes\obj\Debug\net8.0\ref\CenturiesToMinutes.dll
