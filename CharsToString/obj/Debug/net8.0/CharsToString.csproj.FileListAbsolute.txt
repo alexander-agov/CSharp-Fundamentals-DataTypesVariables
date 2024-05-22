@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\bin\Debug\net8.0\CharsToString.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\bin\Debug\net8.0\CharsToString.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\bin\Debug\net8.0\CharsToString.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\bin\Debug\net8.0\CharsToString.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\bin\Debug\net8.0\CharsToString.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\refint\CharsToString.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\CharsToString.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\CharsToString\obj\Debug\net8.0\ref\CharsToString.dll
