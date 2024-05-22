@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\bin\Debug\net8.0\FromLeftToRight.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\refint\FromLeftToRight.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\FromLeftToRight.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\FromLeftToRight\obj\Debug\net8.0\ref\FromLeftToRight.dll
