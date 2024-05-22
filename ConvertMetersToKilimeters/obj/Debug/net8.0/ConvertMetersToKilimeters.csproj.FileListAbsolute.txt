@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\bin\Debug\net8.0\ConvertMetersToKilimeters.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\bin\Debug\net8.0\ConvertMetersToKilimeters.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\bin\Debug\net8.0\ConvertMetersToKilimeters.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\bin\Debug\net8.0\ConvertMetersToKilimeters.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\bin\Debug\net8.0\ConvertMetersToKilimeters.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\refint\ConvertMetersToKilimeters.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ConvertMetersToKilimeters.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ConvertMetersToKilimeters\obj\Debug\net8.0\ref\ConvertMetersToKilimeters.dll
