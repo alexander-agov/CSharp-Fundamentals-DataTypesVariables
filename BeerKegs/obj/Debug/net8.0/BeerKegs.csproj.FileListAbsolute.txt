@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\bin\Debug\net8.0\BeerKegs.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\bin\Debug\net8.0\BeerKegs.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\bin\Debug\net8.0\BeerKegs.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\bin\Debug\net8.0\BeerKegs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\bin\Debug\net8.0\BeerKegs.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\refint\BeerKegs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\BeerKegs.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\BeerKegs\obj\Debug\net8.0\ref\BeerKegs.dll
