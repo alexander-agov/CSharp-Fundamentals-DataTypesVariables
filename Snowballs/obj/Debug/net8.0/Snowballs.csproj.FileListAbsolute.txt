@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\bin\Debug\net8.0\Snowballs.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\bin\Debug\net8.0\Snowballs.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\bin\Debug\net8.0\Snowballs.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\bin\Debug\net8.0\Snowballs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\bin\Debug\net8.0\Snowballs.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\refint\Snowballs.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\Snowballs.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\Snowballs\obj\Debug\net8.0\ref\Snowballs.dll
