@@ -1,0 +1,14 @@
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\bin\Debug\net8.0\ExactSumOfRealNumbers.exe
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\bin\Debug\net8.0\ExactSumOfRealNumbers.deps.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\bin\Debug\net8.0\ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\bin\Debug\net8.0\ExactSumOfRealNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\bin\Debug\net8.0\ExactSumOfRealNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\refint\ExactSumOfRealNumbers.dll
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.pdb
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ExactSumOfRealNumbers.genruntimeconfig.cache
+C:\Users\alex\Desktop\SoftUniProjects\CSharp\Fundamentals\DataTypesVariables\ExactSumOfRealNumbers\obj\Debug\net8.0\ref\ExactSumOfRealNumbers.dll
